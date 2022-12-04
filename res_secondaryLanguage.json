@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hallo",
-      "description": "👋 Ich bin Chris Plitz.Ich bin Masterand im Studiengang EECS an der Technischen Universität München und habe schon viele Ideen zur Prototypenreife gebracht. Meine Schwerpunkte sind Quantum-Computing und maschinelles Lernen.",
+      "description": "👋 Ich bin Chris Plitz. Ich bin Software-Entwickler mit Schwerpunkt auf maschinellem Lernen.",
       "section_name": {
         "about": "Über mich",
         "projects": "Projekte",
@@ -61,6 +61,22 @@
       }
     ],
     "experience": [
+      {
+        "company": "Hilti Group",
+        "title": "Master's Thesis",
+        "years": "11.2021 - 11.2022",
+        "mainTech": [
+          "Tensorflow"
+        ],
+        "technologies": [
+          "Python",
+          "Tensorflow",
+          "Scikit-learn",
+          "numpy",
+          "pandas",
+          "Java"
+        ]
+      },
       {
         "company": "Karlsruher Institut für Technologie",
         "title": "Hardware Praktikant",
